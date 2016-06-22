@@ -2656,6 +2656,8 @@ enum {
 	STR_DRAWING_ENGINE_SOFTWARE_WITH_HARDWARE_DISPLAY = 5878,
 	STR_DRAWING_ENGINE_OPENGL = 5879,
 
+	STR_CUSTOM_CURRENCY = 5880,
+
 	// Have to include resource strings (from scenarios and objects) for the time being now that language is partially working
 	STR_COUNT = 32768
 };
