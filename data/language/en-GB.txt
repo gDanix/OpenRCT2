@@ -4191,7 +4191,7 @@ STR_5879    :OpenGL
 STR_5880    :Custom currency
 STR_5881    :Custom currency configuration
 STR_5882    :{WINDOW_COLOUR_2}Exchange rate: 
-STR_5883    :{WINDOW_COLOUR_2}is equivalent to {COMMA2DP32} GBP
+STR_5883    :{WINDOW_COLOUR_2}is equivalent to {COMMA2DP32} GBP (£)
 STR_5884    :{WINDOW_COLOUR_2}Currency symbol:
 STR_5885    :Prefix
 STR_5886    :Suffix
